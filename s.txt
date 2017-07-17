@@ -1,6 +1,2 @@
 sadc
-<<<<<<< HEAD
 aakash
-=======
-nirajan
->>>>>>> 66b391494b694a98eb7e770c42e918eb9b690f35
